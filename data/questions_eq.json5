@@ -1,0 +1,54 @@
+{
+    sections: [
+        {
+            title: "Are you emotionally literate?",
+            questions: [
+                {
+                    title: "Your child, in direct contravention to your orders, runs into the busy road. You pull him/her back and:",
+                    options: [
+                        "smack or shake him/her?",
+                        "master your emotions and explain why this was not a good idea?",
+                        "master your emotions and resolve upon subsequent punishment?",
+                    ]
+                },
+                {
+                    title: "You then:",
+                    options: [
+                        "tell the child off and threaten him/her with dire punishment?",
+                        "apologize and explain that mommy/daddy was frightened?",
+                        "burst into tears?",
+                    ]
+                },
+                {
+                    title: "It annoys you to:?",
+                    options: [
+                        "see others making the most of their physical attributes at work?",
+                        "see others unkempt ot sloppily dressed at work?",
+                    ]
+                },
+                {
+                    title: "You are infuriated with your partner. Do you:",
+                    options: [
+                        "refuse to speak for days?",
+                        "sear, and go for a walk?",
+                        "plot revenge?",
+                    ]
+                },
+                {
+                    title: "Your parent/parent-in-law is nagging, sarcastic and interfering. Your principal feeling is:",
+                    options: [
+                        "resentment?",
+                        "resignation?",
+                        "pity?",
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
